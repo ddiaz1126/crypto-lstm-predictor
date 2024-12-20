@@ -1,1 +1,7 @@
-#conda activate crypto-env
+#conda activate crypto-
+
+# docker run -it --name crypto-lstm-container crypto-lstm-predictor
+# docker stop crypto-lstm-container                                
+# docker rm crypto-lstm-container
+
+# /Users/daviddiaz/anaconda3/envs/test_env/bin/python main.py
