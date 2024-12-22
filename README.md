@@ -6,11 +6,11 @@ This repository contains a Long Short-Term Memory (LSTM) model pipeline for pred
 Contains training scripts and model input files.
 #### **'data_ingestion','data_transformed','modeling_predictions' folders**:
 Contain CSV/Numpy files generated during the ETL process.
-#### **'data_ingestion.py', 'data_transformation.py', 'modeling.py' files:
+#### **'data_ingestion.py', 'data_transformation.py', 'modeling.py'** files:
 These are the three ETL Scripts.
 ### **'main.py' script**:
 Handles the orchestration and execution of the ETL process.
-### **model_predictions_analysis.ipynb** Notebook**:
+### **model_predictions_analysis.ipynb** Notebook:
 Post Analysis of daily predictions for 4 days.
 ![Prediction vs Actual Plot](/analysis.png)
 
