@@ -1,4 +1,4 @@
-#conda activate crypto-
+# LSTM Crypto Predictor
 
 # docker run -it --name crypto-lstm-container crypto-lstm-predictor
 # docker stop crypto-lstm-container                                
