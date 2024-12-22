@@ -2,7 +2,7 @@
 This repository contains a Long Short-Term Memory (LSTM) model pipeline for predicted the difference between Closed Prices on a daily basis. The project is divided into several components, including training, ETL processes, and post-analysis of daily predictions.
 
 ## Project Structure
-#### **model_training folder**: 
+#### **'[model_training](model_training/)' folder**: 
 Contains training scripts and model input files.
 #### **'data_ingestion','data_transformed','modeling_predictions' folders**:
 Contain CSV/Numpy files generated during the ETL process.
